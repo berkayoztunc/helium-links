@@ -10,11 +10,12 @@ Paylaşılan doğrulanmış ve denenmiş linkler telegram link https://t.me/LORA
 # Anten 
 | İsim  | Açıklama  |  Link |
 |---|---|---|
-| Gökhan bey | Loratec store telegram grubu 6 Dbi anten   | https://t.me/LORATEK  |
+| Temsilci | Loratec store telegram grubu 6 Dbi anten   | https://t.me/LORATEK  |
 | wi.com.tr  | LoRa 6.5 dBi Omni antenna  |  https://www.wi.com.tr/lora-kit-anteni-1m-sma?search=lora  |
-
+| seeedstudio.com  | LoRa 8Dbi (Ön sipariş)  |  https://www.seeedstudio.com/Lora-Fiberglass-Antenna-858-878MHz-8dBi-1300mm-p-4928.html  |
 
 # Kablo
+
 
 # Poe
 | İsim  | Açıklama  |  Link |
