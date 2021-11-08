@@ -15,7 +15,7 @@ Paylaşılan doğrulanmış ve denenmiş linkler telegram link https://t.me/LORA
 | seeedstudio.com  | LoRa 8Dbi (Ön sipariş)  |  https://www.seeedstudio.com/Lora-Fiberglass-Antenna-858-878MHz-8dBi-1300mm-p-4928.html  |
 
 # Kablo
-
+| noktaelektronik.net | lmr400  | https://www.noktaelektronik.net/tr  |
 
 # Poe
 | İsim  | Açıklama  |  Link |
